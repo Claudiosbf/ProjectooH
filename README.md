@@ -1,2 +1,2 @@
 # ProjectooH
-testando a herança em Python3
+Explorando funcionalidades de herança
