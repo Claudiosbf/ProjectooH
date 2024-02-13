@@ -28,3 +28,5 @@ class Programa:
     def dar_likes(self):
         self.likes += 1
 
+    def __str__(self):
+        return f'Nome: {self._nome} - Ano: {self._ano} - Likes: {self._likes}'
