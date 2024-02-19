@@ -16,9 +16,7 @@ class Serie(programa.Programa):
 
 
 atlanta= Serie('Atlanta', 2018, 2)
-
-#print(f'Nome: {atlanta.nome} - Ano: {atlanta.ano}'
- #     f' - Temporadas: {atlanta.temporadas} - Likes: {atlanta.likes}')
+demolidor = Serie('Demolidor', 2016, 2)
 
 
 

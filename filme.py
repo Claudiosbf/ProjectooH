@@ -16,6 +16,6 @@ class Filme(programa.Programa):
         return f'Nome: {self._nome} - Ano: {self._ano} - Duração: {self._duracao} - Likes: {self._likes}'
 
 vingadores = Filme('vingadores - guerra infinita', 2018, 160)
-#print(f'Nome: {vingadores.nome} - Ano: {vingadores.ano}'
- #     f' - Duração: {vingadores.duracao} - Likes: {vingadores.likes}')
+tmep = Filme('Todo mundo em pânico', 1999, 100)
+
 
